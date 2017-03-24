@@ -1,0 +1,37 @@
+																<--------------------------Brick Shooting Game------------------------------>
+
+Functioning:-
+		
+		There is a canon on the left boundary of the screen which can be used to shoot at bricks falling from the top boundary.
+		There are also two buckets meant for collecting the bricks of same colour.
+		If a black brick is collected in some bucket the game will stop.
+		Also there is a reloading bar at the top right corner which shows how much the canon has reloaded once you shoot the laser.You can shoot another laser only when the reload bar is full.
+		There are mirrors which can be used to reflect the lasers at desired angles.
+		Also you can use mouse click and drag to move the buckets and the canon to their desired positions.
+		There are sound effects for shooting laser,collision with bricks and also striking on the mirror.
+
+
+Controls:-
+
+		ctrl+left  :  Moves red bucket to the left
+		ctrl+right :  Moves red bucket to the right
+		alt+left   :  Moves blue bucket to the left
+		alt+right  :  Moves blue bucket to the right
+		a          :  Moves canon upward
+		d          :  Moves canon downward
+		s          :  Tilt canon upwards
+		f          :  Tild canon downwards
+		g          :  Increase brick falling speed
+		h          :  Decrease brick falling speed
+
+		Apart from these you can use mouse click and drag to move the canon and buckets.
+
+
+Additional Info:-
+
+		The code requires GLUT and also libaodev library to be installed.
+		Also there is some buffer around the objects so the collisions and mouse click+drag may lack some amount of precision.
+
+
+
+																<--------------------------------ENJOY THE GAME------------------------------------->

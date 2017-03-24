@@ -1,0 +1,14 @@
+																<--------------------------Brick Shooting Game------------------------------>
+
+Controls:-
+
+		w  		   :  Move forward
+		a 		   :  Moves left
+		s   	   :  Moves back
+		d          :  Moves right
+		v          :  Change camera view
+		b          :  Change camera location in block view
+
+
+
+																<--------------------------------ENJOY THE GAME------------------------------------->
